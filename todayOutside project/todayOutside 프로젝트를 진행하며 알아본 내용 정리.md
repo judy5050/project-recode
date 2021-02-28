@@ -7,5 +7,5 @@ int num = Integer.parseInt(string);
 int num = 5;
 String string = Integer.toString(num); or string = String.valueOf(num);
 
-3)hashMap 관련 정리하기 
+3) hashMap 관련 정리하기 
 
